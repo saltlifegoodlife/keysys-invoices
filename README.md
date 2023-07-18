@@ -1,5 +1,6 @@
 # Keysys-invoices 
 React application that fetches invoice options from Web API called KeysysAPI. App allows users to search for options by invoice type code and category id. 
+  - Will need to install node modules
 
 ## Available Scripts
 
