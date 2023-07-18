@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Keysys-invoices 
+React application that fetches invoice options from Web API called KeysysAPI. App allows users to search for options by invoice type code and category id. 
 
 ## Available Scripts
 
